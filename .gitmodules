@@ -1,6 +1,3 @@
-[submodule "cores"]
-	path = cores
-	url = https://github.com/Project-Alpaca/teensy-cores.git
 [submodule "libraries/EEPROM"]
 	path = libraries/EEPROM
 	url = https://github.com/PaulStoffregen/EEPROM.git
@@ -10,3 +7,27 @@
 [submodule "libraries/Wire"]
 	path = libraries/Wire
 	url = https://github.com/PaulStoffregen/Wire.git
+[submodule "libraries/Audio"]
+	path = libraries/Audio
+	url = https://github.com/PaulStoffregen/Audio.git
+[submodule "cores"]
+	path = cores
+	url = https://github.com/djphazer/teensy_cores.git
+[submodule "libraries/SD"]
+	path = libraries/SD
+	url = https://github.com/PaulStoffregen/SD.git
+[submodule "libraries/MIDI"]
+	path = libraries/MIDI
+	url = https://github.com/PaulStoffregen/MIDI.git
+[submodule "libraries/LittleFS"]
+	path = libraries/LittleFS
+	url = https://github.com/PaulStoffregen/LittleFS.git
+[submodule "libraries/USBHost_t36"]
+	path = libraries/USBHost_t36
+	url = https://github.com/PaulStoffregen/USBHost_t36.git
+[submodule "libraries/SdFat"]
+	path = libraries/SdFat
+	url = https://github.com/PaulStoffregen/SdFat.git
+[submodule "libraries/SerialFlash"]
+	path = libraries/SerialFlash
+	url = https://github.com/PaulStoffregen/SerialFlash
